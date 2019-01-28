@@ -68,8 +68,8 @@ img.my-picture {
   display: block;
   margin: 0 auto 2em;
   /*max-width: 100%;*/
-  width: 8rem;
-  height: 8rem;
+  width: 6rem;
+  height: 6rem;
   border: 2px solid white;
   border-radius: 50%;
 }
